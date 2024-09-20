@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fernando López</h1>
-<h3 align="center">Software engineering student from Mexico</h3>
+<h3 align="center">Computer Science student in Tec de Monterrey </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pizzerolaa&label=Profile%20views&color=0e75b6&style=flat" alt="pizzerolaa" /> </p>
 
-- 🌱 I’m currently learning **PC apps development**
+- 🌱 I’m currently learning **Machine Learning and data analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pizzerolaa?tab=repositories](https://github.com/pizzerolaa?tab=repositories)
 
-- 📫 How to reach me **falg.0711@gmail.com**
+- 📫 How to reach me **falg.0309@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
