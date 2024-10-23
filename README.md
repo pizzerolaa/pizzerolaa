@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/nottvezz" target="blank"><img src="https://img.shields.io/twitter/follow/nottvezz?logo=twitter&style=for-the-badge" alt="nottvezz" /></a> </p>
 
-- 🔭 I’m currently working on a new own project called **PriceSPY**
+- 🔭 I'm currently working on a new own project called **PriceSPY**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I'm currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available in [https://github.com/pizzerolaa?tab=repositories](https://github.com/pizzerolaa?tab=repositories)
+- 👨‍💻 All of my projects are available on [my GitHub repositories](https://github.com/pizzerolaa?tab=repositories)
 
 - 💬 Ask me about **react, python, js vanilla and c++**
 
-- 📫 How to reach me **falg.0309@gmail.com**
+- 📫 How to reach me: [falg.0309@gmail.com](mailto:falg.0309@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iUslwDKzy5YsMRy02hE2-qPCp5sLfC1T/view?usp=sharing](https://drive.google.com/file/d/1iUslwDKzy5YsMRy02hE2-qPCp5sLfC1T/view?usp=sharing)
+- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1iUslwDKzy5YsMRy02hE2-qPCp5sLfC1T/view?usp=sharing)
 
 - ⚡ Fun fact **I love play Tennis**
 
